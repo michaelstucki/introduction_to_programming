@@ -1,0 +1,1 @@
+It tells us that the calculate_product method is expecting two (2) arguments but it only was passed one (1).
