@@ -1,0 +1,2 @@
+An array is a integer indexed list. A hash is a list indexed by associated keys.
+
