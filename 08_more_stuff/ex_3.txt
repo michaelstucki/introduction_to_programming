@@ -1,0 +1,2 @@
+# Exception handling allows the program to gracefully deal with an exception (e.g. trying to divide by zero) rather than crashing the program.
+
